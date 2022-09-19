@@ -1,0 +1,20 @@
+{
+  "name": "testlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zz1oN/TestLab.git"
+  },
+  "author": "Aleksey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zz1oN/TestLab/issues"
+  },
+  "homepage": "https://github.com/Zz1oN/TestLab#readme"
+}
